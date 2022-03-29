@@ -1,3 +1,4 @@
+<?php include('./userinformation.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
